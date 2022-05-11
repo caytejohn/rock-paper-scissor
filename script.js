@@ -1,3 +1,6 @@
+let playerScore = 0;
+let computerScore = 0;
+
 // Function that computer will generate random choice
 function computerPlay() {
   let computerChoice = ["Rock", "Paper", "Scissors"];
